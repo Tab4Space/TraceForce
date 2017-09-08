@@ -1,0 +1,14 @@
+c:\users\mk\documents\visual studio 2015\Projects\TraceForce2\TraceForce2\bin\Debug\TraceForce2.exe.config
+c:\users\mk\documents\visual studio 2015\Projects\TraceForce2\TraceForce2\bin\Debug\TraceForce2.exe
+c:\users\mk\documents\visual studio 2015\Projects\TraceForce2\TraceForce2\bin\Debug\TraceForce2.pdb
+c:\users\mk\documents\visual studio 2015\Projects\TraceForce2\TraceForce2\bin\Debug\Interop.KHOpenAPILib.dll
+c:\users\mk\documents\visual studio 2015\Projects\TraceForce2\TraceForce2\bin\Debug\AxInterop.KHOpenAPILib.dll
+c:\users\mk\documents\visual studio 2015\Projects\TraceForce2\TraceForce2\obj\Debug\TraceForce2.csprojResolveAssemblyReference.cache
+c:\users\mk\documents\visual studio 2015\Projects\TraceForce2\TraceForce2\obj\Debug\Interop.KHOpenAPILib.dll
+c:\users\mk\documents\visual studio 2015\Projects\TraceForce2\TraceForce2\obj\Debug\AxInterop.KHOpenAPILib.dll
+c:\users\mk\documents\visual studio 2015\Projects\TraceForce2\TraceForce2\obj\Debug\TraceForce2.csproj.ResolveComReference.cache
+c:\users\mk\documents\visual studio 2015\Projects\TraceForce2\TraceForce2\obj\Debug\TraceForce2.Form1.resources
+c:\users\mk\documents\visual studio 2015\Projects\TraceForce2\TraceForce2\obj\Debug\TraceForce2.Properties.Resources.resources
+c:\users\mk\documents\visual studio 2015\Projects\TraceForce2\TraceForce2\obj\Debug\TraceForce2.csproj.GenerateResource.Cache
+c:\users\mk\documents\visual studio 2015\Projects\TraceForce2\TraceForce2\obj\Debug\TraceForce2.exe
+c:\users\mk\documents\visual studio 2015\Projects\TraceForce2\TraceForce2\obj\Debug\TraceForce2.pdb
